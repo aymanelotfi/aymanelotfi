@@ -1,7 +1,7 @@
 <br/>
-
+<p align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=aymanelotfi&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-
+</p>
 <br/>
 <p align="center">
 <br/>
