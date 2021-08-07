@@ -1,10 +1,5 @@
+
 <p align="center">
-<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=aymanelotfi&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-<br/>
-</p>
-<p align="center">
-<br/>
 <a href="https://twitter.com/lotfiaymane1111">
   <img alt="aymanelotfi | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
