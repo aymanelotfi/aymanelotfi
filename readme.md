@@ -8,7 +8,7 @@
 <a href="https://twitter.com/lotfiaymane1111">
   <img alt="aymanelotfi | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/aymane-lotfi-58861b18b/">
   <img alt="aymane lotfi 's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/aymane.lotfido/">
