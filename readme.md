@@ -16,7 +16,7 @@
   <img alt="aymane lotfi's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
-hi, i'm Aymane Lotfi,  a coding enthusiast . I always dreamed to build softwares and apps that can solve real life problems. I am currently studing at CentraleSupelec  , i am also a competitve programmer . Keep dreaming ;)
+Hi, I'm Aymane Lotfi,  a coding enthusiast. I always dreamed of building software and apps that can solve real-life problems. I am currently studying at CentraleSupelec. I am also a competitive programmer. Keep dreaming ;)
 
 
 - 💼 any freelance work? do reach, [email](mailto:lotfidevers@gmail.com) :)
