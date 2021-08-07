@@ -16,5 +16,8 @@
   <img alt="aymane lotfi's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
+hi, i'm Aymane Lotfi,  a coding enthusiast .
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
